@@ -12,14 +12,14 @@
         <visual>
           <origin xyz="0 0 0" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
           <material name="orange"/>
         </visual>
         <collision>
           <origin xyz="0 0 0" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
         </collision>
       </link>
@@ -33,14 +33,14 @@
         <visual>
           <origin xyz="-0.0 0.0 -0.0045" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/shoulder_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/shoulder_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
           <material name="orange"/>
         </visual>
         <collision>
           <origin xyz="-0.0 0.0 -0.0045" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/shoulder_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/shoulder_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
         </collision>
       </link>
@@ -54,14 +54,14 @@
         <visual>
           <origin xyz="0.03005 0.0005 -0.06705" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/elbow_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/elbow_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
           <material name="orange"/>
         </visual>
         <collision>
           <origin xyz="0.03005 0.0005 -0.06705" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/elbow_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/elbow_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
         </collision>
       </link>
@@ -75,14 +75,14 @@
         <visual>
           <origin xyz="-0.0249 0.0005 -0.19155" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/arm_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/arm_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
           <material name="orange"/>
         </visual>
         <collision>
           <origin xyz="-0.0249 0.0005 -0.19155" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/arm_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/arm_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
         </collision>
       </link>
@@ -96,14 +96,14 @@
         <visual>
           <origin xyz="-0.02485 0.0005 -0.31605" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/wrist_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/wrist_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
           <material name="orange"/>
         </visual>
         <collision>
           <origin xyz="-0.02485 0.0005 -0.31605" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/wrist_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/wrist_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
         </collision>
       </link>
@@ -117,14 +117,14 @@
         <visual>
           <origin xyz="-0.0006 0.0027 -0.377" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/hand_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/hand_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
           <material name="amber"/>
         </visual>
         <collision>
           <origin xyz="-0.0006 0.0027 -0.377" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/hand_link.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/hand_link.stl" scale="0.001 0.001 0.001"/>
           </geometry>
         </collision>
       </link>
@@ -138,14 +138,14 @@
         <visual>
           <origin xyz="0.01145 -0.0059 -0.411" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/right_gripper.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/right_gripper.stl" scale="0.001 0.001 0.001"/>
           </geometry>
           <material name="amber"/>
         </visual>
         <collision>
           <origin xyz="0.01145 -0.0059 -0.411" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/right_gripper.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/right_gripper.stl" scale="0.001 0.001 0.001"/>
           </geometry>
         </collision>
       </link>
@@ -159,14 +159,14 @@
         <visual>
           <origin xyz="-0.0126 -0.00695 -0.4109" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/left_gripper.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/left_gripper.stl" scale="0.001 0.001 0.001"/>
           </geometry>
           <material name="amber"/>
         </visual>
         <collision>
           <origin xyz="-0.0126 -0.00695 -0.4109" rpy="0 0 0"/>
           <geometry>
-            <mesh filename="file:/home/binrachahun/dev_ws/robot_ws/tinkerkit/src/tinkerkit_description/meshes/left_gripper.stl" scale="0.001 0.001 0.001"/>
+            <mesh filename="file:/home/binn/robot_ws/tinkerkit/src/tinkerkit_description/meshes/left_gripper.stl" scale="0.001 0.001 0.001"/>
           </geometry>
         </collision>
       </link>

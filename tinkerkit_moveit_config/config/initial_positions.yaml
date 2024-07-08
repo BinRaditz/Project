@@ -1,0 +1,9 @@
+# Default initial positions for tinkerkit's ros2_control fake system
+
+initial_positions:
+  base_joint: 0
+  elbow_joint: 0
+  hand_joint: 0
+  left_gripper_joint: 0
+  shoulder_joint: 0
+  wrist_joint: 0
