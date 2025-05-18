@@ -1,6 +1,7 @@
 # Project
 ROS2 Humble For Braccio Robot Arm
 
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 
 
 # Environment
